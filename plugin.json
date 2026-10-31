@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Coaches the premium cycle: price -> margin -> better delivery and proof -> higher perceived value; names the cheap-price death spiral when it sees it.",
+  "keywords": [
+    "coach",
+    "kairos",
+    "premium",
+    "pricing",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-premium-pricing-coach",
+  "repository": "https://github.com/baselam88/kairos-premium-pricing-coach-plugin",
+  "version": "0.1.0"
+}
